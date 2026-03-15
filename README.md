@@ -19,7 +19,7 @@ A modern, React-based template for creating beautiful slideshow presentations us
 
 ### Prerequisites
 
-- Node.js (v18 or higher)
+- Node.js (v24 or higher)
 - pnpm (recommended) or npm
 
 ### Installation
@@ -322,10 +322,6 @@ const config = [
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Resources
 
